@@ -4,7 +4,6 @@
     }
 }
 
-
 .cookie-policy {
     position: fixed;
     bottom: 0;
