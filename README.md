@@ -1,11 +1,48 @@
-- 👋 Hi, I’m @Mr Ali leade MDC 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m l![Screenshot_20230903-152320](https://github.com/Janu786/Janu786/assets/144521381/711858f4-a251-4bfd-8d38-50b463535786)
-ooking to collaborate on ...
-- 📫 How to reach me ...
+@media(max-width:320px){
+	.auction-item-details .item-bid-price-time .bid-timer {
+      font-size: 20px !important;
+    }
+}
 
-<!---
-Janu786/Janu786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> Hi i am Mr Ali leader MDC 
+
+.cookie-policy {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border-top: 1px solid #e5e5e5;
+    padding: 30px 0;
+    z-index: 99;
+      background: #36274c;
+}
+
+.cookie-policy .text--base {
+    color: #007bff;
+}
+
+.cookie-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.cookie-wrapper .cmn--btn {
+    font-size: 12px;
+}
+
+.cookie-wrapper .cookie-cont {
+    max-width: 650px;
+}
+
+@media (max-width: 991px) {
+    .cookie-wrapper {
+        text-align: center;
+    }
+
+    .cookie-wrapper .cmn--btn {
+        margin-top: 30px;
+    }
+}
