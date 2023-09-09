@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Mr Ali leade MDC 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m l![Screenshot_20230903-152320](https://github.com/Janu786/Janu786/assets/144521381/711858f4-a251-4bfd-8d38-50b463535786)
-ooking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Janu786/Janu786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> Hi i am Mr Ali leader MDC 
+<div class="position-absolute width-full color-bg-default" style="bottom: -4rem;">
+  <div class="container-xl p-responsive">
+    <div class="d-flex flex-justify-center flex-lg-justify-end color-bg-default">
+      <div class="col-8 col-sm-7 col-md-6 col-lg-5 position-relative z-2 right-lg-n12 events-none">
+        <picture>
+          <source srcset="astro-mona.webp" type="image/webp">
+          <img src="astro-mona.svg" width="960" height="967" class="home-astro-mona width-full position-absolute bottom-0 height-auto" alt="Mona looking at GitHub activity across the globe">
+        </picture>
+      </div>
+    </div>
+  </div>
+</div>
